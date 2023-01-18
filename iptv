@@ -108,7 +108,7 @@ https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" status="timeout",TRT Belgesel (720p)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" status="timeout",TRT Belgesel Deneme
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
@@ -226,10 +226,6 @@ https://59cba4d34b678.streamlock.net/live/kanalpati/playlist.m3u8
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV
-https://embedlp.b-cdn.net/womantv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX
@@ -238,16 +234,6 @@ https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL (backup)
-http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV (backup)
-https://s01.vpis.io/wmtv/wmtv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV (backup)
-https://mn-nl.mncdn.com/blutv_womantv/womantv_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX (backup)
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX (backup)
