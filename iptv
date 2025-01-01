@@ -120,6 +120,10 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=BLhAMnntbcjWLZtfldSnig&e=1735770614
+#EXTINF:0 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=BLhAMnntbcjWLZtfldSnig&e=1735770614
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
